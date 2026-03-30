@@ -100,7 +100,7 @@ This project was built to simulate a **real-world property rental platform**, he
 ## 📬 Contact
 
 - 📱 Phone: +44 7785 314195  
-- 📧 Email: (add your email)
+- 📧 Email: vitordutra1125@gmail.com
 
 ---
 

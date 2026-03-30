@@ -1,40 +1,38 @@
-# 🏗️ Apex Property Platform
 
-A modern, high-converting single-page website (SPA) for a UK-based property services company.
+# 🏡 Picador Properties Platform
 
-This project was built with a strong focus on **UI/UX, performance, and lead generation**, simulating a real-world business scenario in the home services industry.
+A modern and responsive web project inspired by a real UK serviced accommodation business.
+
+This platform simulates a **property rental experience**, focusing on short-term stays, clean design, and user-friendly navigation.
 
 ---
 
-## 🚀 Live Preview
+## 🚀 Live Demo
 
-> (https://bitstreamsystems.github.io/picador-properties)
+🔗 https://bitstreamsystems.github.io/picador-properties/
 
 ---
 
 ## 📌 Overview
 
-Apex Property Platform is designed to represent a **full-service property solutions company** offering a wide range of services including construction, maintenance, and home improvement.
+Picador Properties Platform is designed to represent a **serviced accommodation business** in the UK, offering comfortable, fully equipped properties for:
 
-The goal of this project is to:
-- Showcase services clearly
-- Build trust with potential customers
-- Maximize conversions through strong CTAs
-- Deliver a clean and modern user experience
+- 🧳 Business travellers  
+- 🌍 Tourists and short stays  
+- 🏠 Temporary relocation  
+
+The goal of this project is to recreate a real-world booking-style website with a focus on **simplicity, usability, and performance**.
 
 ---
 
 ## ✨ Features
 
-- 📱 Fully responsive (mobile-first design)
-- 🎯 Conversion-focused layout
-- 📞 Call-to-action buttons (Call, WhatsApp, Quote)
-- 🧩 Services grid with categorized offerings
-- 🖼️ Before & After gallery section
-- 💬 Contact form with validation (frontend)
-- 🍔 Mobile navigation menu
-- ⚡ Smooth scrolling navigation
-- 🎨 Modern UI with clean design principles
+- 📱 Fully responsive (mobile-first)
+- 🎯 Clean and modern UI
+- 🏡 Property-focused layout
+- 🧭 Smooth navigation
+- ⚡ Fast and lightweight performance
+- 🎨 Structured and scalable design
 
 ---
 
@@ -44,79 +42,71 @@ The goal of this project is to:
 - **CSS3**
 - **Vanilla JavaScript**
 
-> No frameworks or libraries were used in order to keep the project lightweight and performant.
+> No frameworks or libraries were used to keep the project lightweight and efficient.
 
 ---
 
 ## 📂 Project Structure
 
 
-apex-property-platform/
+picador-properties/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── assets/
-├── images/
-└── icons/
+└── images/
 
 
 ---
 
 ## 🧠 Key Concepts Applied
 
-- Semantic HTML structure
-- Mobile-first responsive design
-- UI/UX best practices
-- Conversion optimization techniques
-- Clean and maintainable code structure
-- Performance-focused development
+- Semantic HTML structure  
+- Responsive design (mobile-first approach)  
+- UI/UX best practices  
+- Clean and maintainable code  
+- Performance optimization  
 
 ---
 
 ## 📸 Sections Included
 
-- Hero (high-impact landing section)
-- Services (grid with categories)
-- Why Choose Us
-- Before & After Gallery
-- How It Works
-- Contact Form
+- Hero (landing section)
+- Property highlights
+- About / Description
+- Contact / CTA
 - Footer
 
 ---
 
 ## 📈 Future Improvements
 
-- 🔗 Backend integration (Node.js + Prisma + PostgreSQL)
-- 📊 Admin dashboard for managing leads
-- 🗂️ Service booking system
-- 🌐 SEO optimization
-- 🧾 Real customer testimonials
-- 🖼️ Replace stock images with real project images
+- 🗓️ Booking system integration  
+- 🔐 User authentication  
+- 🗂️ Property listing management  
+- 🌐 SEO optimization  
+- ⭐ Customer reviews & ratings  
+- 📍 Map integration (location view)  
 
 ---
 
 ## 🎯 Purpose
 
-This project is part of my journey to build **real-world, production-ready applications** and strengthen my skills as a full-stack developer.
+This project was built to simulate a **real-world property rental platform**, helping to develop practical front-end skills and understand how digital products are structured for real businesses.
 
 ---
 
 ## 📬 Contact
 
-If you'd like to collaborate or have any questions:
-
-- 📧 Email: vitordutra1125@gmail.com
-- 📱 Phone: +44 7785 314195
+- 📱 Phone: +44 7785 314195  
+- 📧 Email: (add your email)
 
 ---
 
 ## ⭐ Acknowledgements
 
-Inspired by modern platforms like:
-- Checkatrade
-- TaskRabbit
+Inspired by real UK serviced accommodation platforms and modern property rental websites.
 
 ---
 
